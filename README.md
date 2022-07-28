@@ -1,4 +1,4 @@
-# celery-practise
+
 
 ## This project was done in order to understanding celery technology ##
 
