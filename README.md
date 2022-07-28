@@ -1,13 +1,13 @@
 # celery-practise
 
-** This project was done in order to understanding celery technology **
+## This project was done in order to understanding celery technology ##
 
 >  1.In this project how to upload photos on Webpage through celery during 2 minuts.
 
 >  2.Secondly how to sending sms to email addresswhich users email  with celery each 1 minut .
 
 
-** Write your terminal belong commands for usage **
+## Write your terminal belong commands for usage ##
 
 ```
 1. git clone https://github.com/ShukuraliProgrammer/celery-practise.git
